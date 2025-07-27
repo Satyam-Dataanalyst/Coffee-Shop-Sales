@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales Dashboard — Power BI
+# ☕ Coffee Shop Sales Dashboard — Excel Dashboard
 
 This project presents an excel dashboard analyzing sales performance across a coffee shop chain. It delivers actionable insights into customer behavior, product trends, and store-level performance—designed for business stakeholders to make data-driven decisions.
 
