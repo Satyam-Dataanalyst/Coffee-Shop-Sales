@@ -2,7 +2,8 @@
 
 This project presents an interactive Power BI dashboard analyzing sales performance across a coffee shop chain. It delivers actionable insights into customer behavior, product trends, and store-level performance—designed for business stakeholders to make data-driven decisions.
 
-![Coffee Sales Dashboard](Coffee Project.png)
+## 🖼️ Dashboard Preview
+![Dashboard Preview](Coffee Project.png)
 
 ## 📊 Key Metrics
 - **Total Sales**: $698,812.33  
