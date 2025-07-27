@@ -19,7 +19,6 @@ This project presents an interactive Power BI dashboard analyzing sales performa
 - **Weekday Footfall Patterns**: Balanced traffic across all days
 
 ## 🛠 Tools Used
-- Power BI (DAX, Power Query, Slicers, KPIs)
 - Excel (Data source)
 - Data modeling and transformation
 
